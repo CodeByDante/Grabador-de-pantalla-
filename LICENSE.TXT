@@ -1,6 +1,6 @@
 La Licencia MIT (MIT)
 
-Derechos de autor (c) 2013 DarthTon
+Derechos de autor (c) 
 
 Se concede permiso por la presente, sin cargo, a cualquier persona que obtenga una copia de
 Este software y los archivos de documentación asociados (el "Software"), para tratar
