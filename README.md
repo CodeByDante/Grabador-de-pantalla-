@@ -38,6 +38,9 @@
 ## ✨ Simple y Directo al Grano
 **Screen Recorder Free No Ads** es increíblemente fácil de usar, lo que la convierte en la aplicación perfecta para usuarios novatos. Permite grabar la pantalla en tiempo real y realizar capturas de pantalla, con una excelente adaptación a la mayoría de las cámaras actuales.
 
+|                 |
+|-----------------|
+| <img src="https://github.com/user-attachments/assets/0a7ad7a0-67c3-455e-9915-35322e03d026" alt="Imagen" width="200"/> |
 ---
 
 ## ✂️ Más que un Grabador de Pantalla
