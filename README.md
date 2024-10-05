@@ -12,9 +12,6 @@
   </a>
 </p>
 
----
-
-## 🚀 Descripción
 **Screen Recorder Free No Ads** es una poderosa y gratuita aplicación para dispositivos Android que permite grabar la pantalla y capturar imágenes de manera sencilla y sin anuncios molestos.
 
 ---
