@@ -1,7 +1,16 @@
 # Screen Recorder Free No Ads
 
-![Screen Recorder](https://github.com/user-attachments/assets/239b1324-04c3-464b-bc9a-ea0ce3599356)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/239b1324-04c3-464b-bc9a-ea0ce3599356" alt="Screen Recorder Icon" width="200">
+    <br>
+    <span style="font-size: 24px; font-weight: bold;">Screen Recorder Kimcy929 </span>
+</p>
 
+<p align="center">
+  <a href="https://github.com/CodeByDante/Screen-Recorder/releases/download/Recorder/screen.recorder.apk">
+    <img src="https://img.shields.io/badge/Descargar%20Screen%20Recorder-4B0082?style=for-the-badge&logo=android&logoColor=white" alt="Descargar Screen Recorder"/>
+  </a>
+</p>
 ---
 
 ## 🚀 Descripción
